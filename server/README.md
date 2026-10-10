@@ -1,11 +1,3 @@
-To install dependencies:
-```sh
-bun install
-```
+# Server
 
-To run:
-```sh
-bun run dev
-```
-
-open http://localhost:3000
+See the root README for workspace commands.
